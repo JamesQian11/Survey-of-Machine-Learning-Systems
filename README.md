@@ -3,6 +3,10 @@
 ## Table of Contents
 - 2023:  [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [DATE](#2023-date), [EUROSYS](#2023-eurosys), [MLSYS](#2023-MLSys), [ISCA](#2023-isca), [DAC](#2023-dac), [ATC](#2023-atc), [MICRO](#2023-MICRO), [ICCAD](#2023-ICCAD), [SC](#2023-SC)
 
+- 2024:  [HPCA](#2024-hpca), [ASPLOS](#2024-asplos), [DATE](#2024-date), [EUROSYS](#2024-eurosys), [MLSYS](#2024-MLSys), [ISCA](#2024-isca), [DAC](#2024-dac), [ATC](#2024-atc), [MICRO](#2024-MICRO), [ICCAD](#2024-ICCAD), [SC](#2024-SC) 
+
+<!-- ****************************************************************** 2023 **************************************************************************** -->  
+
 ### [2023 HPCA](https://ieeexplore.ieee.org/xpl/conhome/10070856/proceeding)
 
 
@@ -35,3 +39,37 @@
 
 ### [2023 SC](https://dl.acm.org/doi/proceedings/10.1145/3581784)
 
+
+<!-- ****************************************************************** 2024 **************************************************************************** -->  
+
+### [2024 HPCA](https://ieeexplore.ieee.org/xpl/conhome/10476359/proceeding)
+
+
+### [2024 ASPLOS](https://dl.acm.org/doi/proceedings/10.1145/3617232)
+
+
+### [2024 DATE](https://ieeexplore.ieee.org/xpl/conhome/10546498/proceeding)
+
+
+### [2024 EUROSYS](https://dl.acm.org/doi/proceedings/10.1145/3627703)
+
+
+### [2024 MLSYS](https://proceedings.mlsys.org/paper_files/paper/2024)
+
+
+### [2024 ISCA](https://www.iscaconf.org/isca2024/program/)
+
+
+### [2024 DAC](https://61dac.conference-program.com/)
+
+
+### [2024 ATC](https://www.usenix.org/conference/atc24/technical-sessions)
+
+
+### [2024 MICRO]
+
+
+### [2024 ICCAD](https://2024.iccad.com/accepted-papers)
+
+
+### [2024 SC](https://sc24.conference-program.com/)
