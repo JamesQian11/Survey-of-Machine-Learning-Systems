@@ -66,7 +66,7 @@
 ### [2024 ATC](https://www.usenix.org/conference/atc24/technical-sessions)
 
 
-### [2024 MICRO]
+### 2024 MICRO
 
 
 ### [2024 ICCAD](https://2024.iccad.com/accepted-papers)
