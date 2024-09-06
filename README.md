@@ -1,7 +1,7 @@
 # Survey-of-Machine-Learning-Systems
 
 ## Table of Contents
-- 2023:  [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [DATE](#2023-date), [EUROSYS](#2023-eurosys), [MLSYS](#2023-MLSys), [ISCA](#2023-isca), [DAC](#2023-dac), [ATC](#2023-atc), [MICRO](#2023-MICRO), [ICCAD](#2023-ICCAD), [SC](#2023-SC), [ISSCC](#2023-isscc), [CICC](#2023-cicc), [VLSI](#2023-vlsi), [ESSCIRC](#2023-esscirc), [ASSCC](#2023-asscc)
+- 2023:  [HPCA](#2023-hpca), [ASPLOS](#2023-asplos), [DATE](#2023-date), [EUROSYS](#2023-eurosys), [MLSYS](#2023-MLSys), [ISCA](#2023-isca), [DAC](#2023-dac), [ATC](#2023-atc), [MICRO](#2023-MICRO), [ICCAD](#2023-ICCAD), [SC](#2023-SC), [ISSCC](#2023-isscc), [CICC](#2023-cicc), [VLSI](#2023-vlsi), [ESSCIRC](#2023-esscirc)
 
 - 2024:  [HPCA](#2024-hpca), [ASPLOS](#2024-asplos), [DATE](#2024-date), [EUROSYS](#2024-eurosys), [MLSYS](#2024-MLSys), [ISCA](#2024-isca), [DAC](#2024-dac), [ATC](#2024-atc), [MICRO](#2024-MICRO), [ICCAD](#2024-ICCAD), [SC](#2024-SC), [ISSCC](#2024-isscc), [CICC](#2024-cicc), [VLSI](#2024-vlsi),
 
@@ -51,8 +51,6 @@
 
 ## [2023 ESSCIRC](https://ieeexplore.ieee.org/xpl/conhome/10268677/proceeding) 
 
-
-## [2023 ASSCC](https://ieeexplore.ieee.org/xpl/conhome/10347557/proceeding) 
 
 
 
