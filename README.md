@@ -60,6 +60,9 @@
 
 ## [2024 HPCA](https://ieeexplore.ieee.org/xpl/conhome/10476359/proceeding)
 
+- **An Optimizing Framework on MLIR for Efﬁcient FPGA-based Accelerator Generation** [Link](https://github.com/sjtu-zhao-lab/pom)
+
+
 
 ## [2024 ASPLOS](https://dl.acm.org/doi/proceedings/10.1145/3617232)
 
