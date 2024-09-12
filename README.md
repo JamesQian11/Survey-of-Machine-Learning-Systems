@@ -75,6 +75,9 @@
 -  **FPGA Technology Mapping Using Sketch-Guided Program Synthesis** [Link](https://dl.acm.org/doi/pdf/10.1145/3620665.3640387)
 -  **MaxK-GNN: Extremely Fast GPU Kernel Design for Accelerating Graph Neural Networks Training** [Link](https://dl.acm.org/doi/pdf/10.1145/3620665.3640426)
 -  **PIM-DL: Expanding the Applicability of Commodity DRAM-PIMs for Deep Learning via Algorithm-System Co-Optimization** [Link](https://dl.acm.org/doi/pdf/10.1145/3620665.3640376)
+-  **TGLite: A Lightweight Programming Framework for Continuous-Time Temporal Graph Neural Networks** [Link](https://dl.acm.org/doi/pdf/10.1145/3620665.3640414)
+-  **8-bit Transformer Inference and Fine-tuning for Edge Accelerators** [Link](https://dl.acm.org/doi/pdf/10.1145/3620666.3651368)
+-  **EVT: Accelerating Deep Learning Training with Epilogue Visitor Tree** [Link](https://dl.acm.org/doi/pdf/10.1145/3620666.3651369)
 
 
 ## [2024 DATE](https://ieeexplore.ieee.org/xpl/conhome/10546498/proceeding)
