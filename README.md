@@ -61,6 +61,10 @@
 ## [2024 HPCA](https://ieeexplore.ieee.org/xpl/conhome/10476359/proceeding)
 
 - **An Optimizing Framework on MLIR for Efﬁcient FPGA-based Accelerator Generation** [Link](https://github.com/sjtu-zhao-lab/pom)
+- **E2EMap: End-to-End Reinforcement Learning for CGRA Compilation via Reverse Mapping** [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10476475)
+- **PruneGNN: Algorithm-Architecture Pruning Framework for Graph Neural Network Acceleration** [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10476445)
+- **RELIEF: Relieving Memory Pressure In SoCs Via Data Movement-Aware Accelerator Scheduling** [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10476426)
+
 
 
 
