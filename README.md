@@ -70,6 +70,12 @@
 
 ## [2024 ASPLOS](https://dl.acm.org/doi/proceedings/10.1145/3617232)
 
+- **ZENO: A Type-based Optimization Framework for Zero Knowledge Neural Network Inference** [Link](https://dl.acm.org/doi/pdf/10.1145/3617232.3624852)
+- **Carat: Unlocking Value-Level Parallelism for Multiplier-Free GEMMs** [Link](https://dl.acm.org/doi/pdf/10.1145/3620665.3640364)
+-  **FPGA Technology Mapping Using Sketch-Guided Program Synthesis** [Link](https://dl.acm.org/doi/pdf/10.1145/3620665.3640387)
+-  **MaxK-GNN: Extremely Fast GPU Kernel Design for Accelerating Graph Neural Networks Training** [Link](https://dl.acm.org/doi/pdf/10.1145/3620665.3640426)
+-  **PIM-DL: Expanding the Applicability of Commodity DRAM-PIMs for Deep Learning via Algorithm-System Co-Optimization** [Link](https://dl.acm.org/doi/pdf/10.1145/3620665.3640376)
+
 
 ## [2024 DATE](https://ieeexplore.ieee.org/xpl/conhome/10546498/proceeding)
 
