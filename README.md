@@ -85,6 +85,11 @@
 
 ## [2024 EUROSYS](https://dl.acm.org/doi/proceedings/10.1145/3627703)
 
+- **GMorph: Accelerating Multi-DNN Inference via Model Fusion** [Link](https://dl.acm.org/doi/pdf/10.1145/3627703.3650074)
+- **Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance** [Link](https://dl.acm.org/doi/pdf/10.1145/3627703.3629584)
+- **Minuet: Accelerating 3D Sparse Convolutions on GPUs** [Link](https://dl.acm.org/doi/pdf/10.1145/3627703.3629560)
+- **Orion: Interference-aware, Fine-grained GPU Sharing for ML Applications** [Link](https://dl.acm.org/doi/pdf/10.1145/3627703.3629578)
+
 
 ## [2024 MLSYS](https://proceedings.mlsys.org/paper_files/paper/2024)
 
