@@ -60,24 +60,9 @@
 
 ## [2024 HPCA](https://ieeexplore.ieee.org/xpl/conhome/10476359/proceeding)
 
-- **An Optimizing Framework on MLIR for Efﬁcient FPGA-based Accelerator Generation** [Link](https://github.com/sjtu-zhao-lab/pom)
-- **E2EMap: End-to-End Reinforcement Learning for CGRA Compilation via Reverse Mapping** [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10476475)
-- **PruneGNN: Algorithm-Architecture Pruning Framework for Graph Neural Network Acceleration** [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10476445)
-- **RELIEF: Relieving Memory Pressure In SoCs Via Data Movement-Aware Accelerator Scheduling** [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10476426)
-
-
-
 
 ## [2024 ASPLOS](https://dl.acm.org/doi/proceedings/10.1145/3617232)
 
-- **ZENO: A Type-based Optimization Framework for Zero Knowledge Neural Network Inference** [Link](https://dl.acm.org/doi/pdf/10.1145/3617232.3624852)
-- **Carat: Unlocking Value-Level Parallelism for Multiplier-Free GEMMs** [Link](https://dl.acm.org/doi/pdf/10.1145/3620665.3640364)
--  **FPGA Technology Mapping Using Sketch-Guided Program Synthesis** [Link](https://dl.acm.org/doi/pdf/10.1145/3620665.3640387)
--  **MaxK-GNN: Extremely Fast GPU Kernel Design for Accelerating Graph Neural Networks Training** [Link](https://dl.acm.org/doi/pdf/10.1145/3620665.3640426)
--  **PIM-DL: Expanding the Applicability of Commodity DRAM-PIMs for Deep Learning via Algorithm-System Co-Optimization** [Link](https://dl.acm.org/doi/pdf/10.1145/3620665.3640376)
--  **TGLite: A Lightweight Programming Framework for Continuous-Time Temporal Graph Neural Networks** [Link](https://dl.acm.org/doi/pdf/10.1145/3620665.3640414)
--  **8-bit Transformer Inference and Fine-tuning for Edge Accelerators** [Link](https://dl.acm.org/doi/pdf/10.1145/3620666.3651368)
--  **EVT: Accelerating Deep Learning Training with Epilogue Visitor Tree** [Link](https://dl.acm.org/doi/pdf/10.1145/3620666.3651369)
 
 
 ## [2024 DATE](https://ieeexplore.ieee.org/xpl/conhome/10546498/proceeding)
@@ -85,10 +70,6 @@
 
 ## [2024 EUROSYS](https://dl.acm.org/doi/proceedings/10.1145/3627703)
 
-- **GMorph: Accelerating Multi-DNN Inference via Model Fusion** [Link](https://dl.acm.org/doi/pdf/10.1145/3627703.3650074)
-- **Improving GPU Energy Efficiency through an Application-transparent Frequency Scaling Policy with Performance Assurance** [Link](https://dl.acm.org/doi/pdf/10.1145/3627703.3629584)
-- **Minuet: Accelerating 3D Sparse Convolutions on GPUs** [Link](https://dl.acm.org/doi/pdf/10.1145/3627703.3629560)
-- **Orion: Interference-aware, Fine-grained GPU Sharing for ML Applications** [Link](https://dl.acm.org/doi/pdf/10.1145/3627703.3629578)
 
 
 ## [2024 MLSYS](https://proceedings.mlsys.org/paper_files/paper/2024)
